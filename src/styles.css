@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+
+body{
+    background-color: #ccc;
+  
+    font-family: 'Oswald', sans-serif;
+
+}
+.image{
+    height:40em; background-size:cover; width:auto;
+    background-image:url('/src/assets/images/sp1.jpg');
+    background-position:50% 50%;
+  }
